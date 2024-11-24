@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="3"
+  SkinType="Component"
+  Comment="HTML5 Search Bar skin"
+  ComponentType="SearchBar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Search Bar">
+        <Properties>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderTopRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">0px</Property>
+          <Property
+            Name="Height">4em</Property>
+          <Property
+            Name="BorderTop">solid 1px #d3d3d3</Property>
+          <Property
+            Name="BorderRight">solid 1px #d3d3d3</Property>
+          <Property
+            Name="BorderBottom">solid 1px #d3d3d3</Property>
+          <Property
+            Name="BorderLeft">solid 1px #d3d3d3</Property>
+          <Property
+            Name="Width">100%</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Submit Button">
+        <Properties>
+          <Property
+            Name="BackgroundColor">transparent</Property>
+          <Property
+            Name="BackgroundImage">url('icon-search-gray_1.png')</Property>
+        </Properties>
+      </Style>
+    </Styles>
+    <Resources>
+      <Resource
+        Name="icon-search-gray.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0rpArMPBDCSPzTjIC6SMA3xCXN0LfLomTScJ/RGP+wLULlAS5BfMkHDhQYOAw4cFBgcUJmwoCKg71nUcKMdZ4BFZzMDALQTCjJfu1v1hYGCU83RxDLHofTv17KbDChytf1kXZz76bZ/LnmMVeDCt3Hx6KNv+B5zsvS8XOXAcbKoUmLCh7tDNHc8Ur1cnRByslj2cLyV9l/2sZsub28a3VOfob43O2tOzf1lQa3CoUHGBtNd8nilfirO5uirXbfQvCfqWYni4Ty0o6FWeS+LBS+Jd1yaW6OdYnF6s0eTyyWmmsvn3OVwnDPqd9W30XhhcdDhnsyzcSyRq5t9I8+9PpmSa60/86NnSnbD3XeokqYaumTG/JDbbnGya7XdnSjrv8om+p3Lm1Vz49Wpi4sVtZRmHc8Mznke9Cz1cmF+06O89F+05eZ01serad5JkH7GueGxYusG+96bYjs7jqtffr3X0nnON8cG1U/E/fnyz/9f+Y/H9d63a/y0ktx/bw8hWL9U/65rWYWDwMXi6+rmsc0poAgBlX+3+xwEAAA==</Resource>
+      <Resource
+        Name="icon-search-gray_1.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0rpArMPBDCSPzTjIC6SMA3xCXN0LfLomTScJ/RGP+wLULlAS5BfMkHDhQYOAw4cFBgcUJmwoCKg71nUcKMdZ4BFZzMDALQTCjJfu1v1hYGCU83RxDLHofTv17KbDChytf1kXZz76bZ/LnmMVeDCt3Hx6KNv+B5zsvS8XOXAcbKoUmLCh7tDNHc8Ur1cnRByslj2cLyV9l/2sZsub28a3VOfob43O2tOzf1lQa3CoUHGBtNd8nilfirO5uirXbfQvCfqWYni4Ty0o6FWeS+LBS+Jd1yaW6OdYnF6s0eTyyWmmsvn3OVwnDPqd9W30XhhcdDhnsyzcSyRq5t9I8+9PpmSa60/86NnSnbD3XeokqYaumTG/JDbbnGya7XdnSjrv8om+p3Lm1Vz49Wpi4sVtZRmHc8Mznke9Cz1cmF+06O89F+05eZ01serad5JkH7GueGxYusG+96bYjs7jqtffr3X0nnON8cG1U/E/fnyz/9f+Y/H9d63a/y0ktx/bw8hWL9U/65rWYWDwMXi6+rmsc0poAgBlX+3+xwEAAA==</Resource>
+    </Resources>
+  </Stylesheet>
+  <Strings>
+    <Stylesheet
+      lang="en-us">
+      <Stylesheet>
+        <Styles>
+          <Style
+            Name="Search Input">
+            <Properties>
+              <Property
+                Name="Placeholder">Search our help site...</Property>
+            </Properties>
+          </Style>
+        </Styles>
+      </Stylesheet>
+    </Stylesheet>
+  </Strings>
+</CatapultSkin>

@@ -1,0 +1,480 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: Default;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	max-id: 6;
+	border-spacing-x: 3;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 2px;
+	separator-color: #000000;
+	background-color: #d8bfd8;
+	color: #ffffff;
+	name: Header1;
+	id: 3;
+	cell-content-style-tag: p;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	background-color: #ffffff;
+	name: Body1;
+	id: 1;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	id: 6;
+	name: Body2;
+	background-color: #ffffff;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-Default
+{
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-left-color: #000000;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-color: #000000;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-color: #000000;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	border-bottom-width: 1px;
+	border-spacing: 3px 0px;
+}
+
+.TableStyle-Default-Head-Header1
+{
+	
+}
+
+.TableStyle-Default-HeadI--Header1
+{
+	color: #ffffff;
+	background-color: #d8bfd8;
+}
+
+.TableStyle-Default-HeadI--Header1 p
+{
+	color: #ffffff;
+}
+
+.TableStyle-Default-HeadE--Header1
+{
+	color: #ffffff;
+	background-color: #d8bfd8;
+	border-bottom-width: 2px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Default-HeadE--Header1 p
+{
+	color: #ffffff;
+}
+
+.TableStyle-Default-HeadF--Header1
+{
+	color: #ffffff;
+	background-color: #d8bfd8;
+	border-bottom-width: 2px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Default-HeadF--Header1 p
+{
+	color: #ffffff;
+}
+
+.TableStyle-Default-HeadH--Header1
+{
+	color: #ffffff;
+	background-color: #d8bfd8;
+}
+
+.TableStyle-Default-HeadH--Header1 p
+{
+	color: #ffffff;
+}
+
+.TableStyle-Default-HeadD--Header1
+{
+	color: #ffffff;
+	background-color: #d8bfd8;
+	border-bottom-width: 2px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Default-HeadD--Header1 p
+{
+	color: #ffffff;
+}
+
+.TableStyle-Default-HeadC--Header1
+{
+	color: #ffffff;
+	background-color: #d8bfd8;
+}
+
+.TableStyle-Default-HeadC--Header1 p
+{
+	color: #ffffff;
+}
+
+.TableStyle-Default-HeadB--Header1
+{
+	color: #ffffff;
+	background-color: #d8bfd8;
+}
+
+.TableStyle-Default-HeadB--Header1 p
+{
+	color: #ffffff;
+}
+
+.TableStyle-Default-HeadA--Header1
+{
+	color: #ffffff;
+	background-color: #d8bfd8;
+}
+
+.TableStyle-Default-HeadA--Header1 p
+{
+	color: #ffffff;
+}
+
+.TableStyle-Default-HeadG--Header1
+{
+	color: #ffffff;
+	background-color: #d8bfd8;
+}
+
+.TableStyle-Default-HeadG--Header1 p
+{
+	color: #ffffff;
+}
+
+.TableStyle-Default-FootI--
+{
+	
+}
+
+.TableStyle-Default-FootI-- p
+{
+	
+}
+
+.TableStyle-Default-FootE--
+{
+	
+}
+
+.TableStyle-Default-FootE-- p
+{
+	
+}
+
+.TableStyle-Default-FootF--
+{
+	
+}
+
+.TableStyle-Default-FootF-- p
+{
+	
+}
+
+.TableStyle-Default-FootH--
+{
+	
+}
+
+.TableStyle-Default-FootH-- p
+{
+	
+}
+
+.TableStyle-Default-FootD--
+{
+	
+}
+
+.TableStyle-Default-FootD-- p
+{
+	
+}
+
+.TableStyle-Default-FootC--
+{
+	
+}
+
+.TableStyle-Default-FootC-- p
+{
+	
+}
+
+.TableStyle-Default-FootB--
+{
+	
+}
+
+.TableStyle-Default-FootB-- p
+{
+	
+}
+
+.TableStyle-Default-FootA--
+{
+	
+}
+
+.TableStyle-Default-FootA-- p
+{
+	
+}
+
+.TableStyle-Default-FootG--
+{
+	
+}
+
+.TableStyle-Default-FootG-- p
+{
+	
+}
+
+.TableStyle-Default-Body-Body1
+{
+	
+}
+
+.TableStyle-Default-BodyI--Body1
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyI--Body1 p
+{
+	
+}
+
+.TableStyle-Default-BodyE--Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Default-BodyE--Body1 p
+{
+	
+}
+
+.TableStyle-Default-BodyF--Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Default-BodyF--Body1 p
+{
+	
+}
+
+.TableStyle-Default-BodyH--Body1
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyH--Body1 p
+{
+	
+}
+
+.TableStyle-Default-BodyD--Body1
+{
+	background-color: #ffffff;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Default-BodyD--Body1 p
+{
+	
+}
+
+.TableStyle-Default-BodyC--Body1
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyC--Body1 p
+{
+	
+}
+
+.TableStyle-Default-BodyB--Body1
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyB--Body1 p
+{
+	
+}
+
+.TableStyle-Default-BodyA--Body1
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyA--Body1 p
+{
+	
+}
+
+.TableStyle-Default-BodyG--Body1
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyG--Body1 p
+{
+	
+}
+
+.TableStyle-Default-Body-Body2
+{
+	
+}
+
+.TableStyle-Default-BodyI--Body2
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyI--Body2 p
+{
+	
+}
+
+.TableStyle-Default-BodyE--Body2
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyE--Body2 p
+{
+	
+}
+
+.TableStyle-Default-BodyF--Body2
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyF--Body2 p
+{
+	
+}
+
+.TableStyle-Default-BodyH--Body2
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyH--Body2 p
+{
+	
+}
+
+.TableStyle-Default-BodyD--Body2
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyD--Body2 p
+{
+	
+}
+
+.TableStyle-Default-BodyC--Body2
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyC--Body2 p
+{
+	
+}
+
+.TableStyle-Default-BodyB--Body2
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyB--Body2 p
+{
+	
+}
+
+.TableStyle-Default-BodyA--Body2
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyA--Body2 p
+{
+	
+}
+
+.TableStyle-Default-BodyG--Body2
+{
+	background-color: #ffffff;
+}
+
+.TableStyle-Default-BodyG--Body2 p
+{
+	
+}
+
+

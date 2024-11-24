@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="ScreenOnly"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    Comment=""
+    Name="PrintOnly"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Web"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Tablet"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Mobile"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Hotels"
+    Comment=""
+    OriginalName="Hotels" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Attractions"
+    Comment=""
+    OriginalName="Attractions" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Image"
+    Comment="" />
+</CatapultConditionTagSet>

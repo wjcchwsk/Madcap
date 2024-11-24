@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term0"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>city</Term>
+    </Terms>
+    <Definition
+      Link="">A big town.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term1"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>attraction</Term>
+    </Terms>
+    <Definition
+      Link="">a place to visit</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term2"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>hotel</Term>
+    </Terms>
+    <Definition
+      Link="">a place to stay in</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term3"
+    Stem="True"
+    IgnoreCase="true">
+    <Terms>
+      <Term>voivodeship</Term>
+    </Terms>
+    <Definition
+      Link="">The highest-level administrative division of Poland.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term4"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>Poland</Term>
+    </Terms>
+    <Definition
+      Link="">A mid-sized country in Central (not Eastern!) Europe.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term5"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>Lubusz</Term>
+    </Terms>
+    <Definition
+      Link="">A voivodeship in Western Poland (pl: Lubuskie).</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

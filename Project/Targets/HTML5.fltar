@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  DefaultUrl="/Content/Home.htm"
+  MasterToc="/Project/TOCs/poland-guide.fltoc"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  ConditionTagExpression="include[Default.Attractions or Default.Hotels or Default.Image or Default.ScreenOnly], exclude[Default.PrintOnly]"
+  GlossaryTermConversion="first">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <MicroContentSearch>
+    <FeaturedSnippets
+      type="AllFiles"
+      numberOfResults="1">
+      <microContentSubset />
+    </FeaturedSnippets>
+    <KnowledgePanel
+      type="AllFiles"
+      numberOfResults="1">
+      <microContentSubset />
+    </KnowledgePanel>
+  </MicroContentSearch>
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/MyGlossary.flglo" />
+  </Glossaries>
+</CatapultTarget>

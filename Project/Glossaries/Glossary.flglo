@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Glossary.Term0"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>Procedure</Term>
+    </Terms>
+    <Definition
+      Link="">A series of steps.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term1"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>Company</Term>
+    </Terms>
+    <Definition
+      Link="">A business entity.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term2"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>general</Term>
+    </Terms>
+    <Definition
+      Link="">high-level</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term3"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>content</Term>
+    </Terms>
+    <Definition
+      Link="">text and other stuff</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

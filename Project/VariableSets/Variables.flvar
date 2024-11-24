@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="Przewodniki">Przewodniki</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">858 123 4567</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    EvaluatedDefinition="Poland Guide">Poland Guide</Variable>
+  <Variable
+    Name="NewDateTimeVariable"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2024-11-24T10:54:50.1787206+01:00"
+    EvaluatedDefinition="hh:mm:ss">hh:mm:ss</Variable>
+  <Variable
+    Name="Author"
+    Comment=""
+    EvaluatedDefinition="" />
+  <Variable
+    Name="Approver"
+    Comment=""
+    EvaluatedDefinition="" />
+</CatapultVariableSet>
